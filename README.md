@@ -9,7 +9,7 @@ HotbarPets 是一个 Slimefun4 附属。本插件很大程度上受到著名模�
 
 ## 下载 HotbarPets
 
-[![Build status](https://builds.guizhanss.com/api/badge/SlimefunGuguProject/HotbarPets/master/latest)](https://builds.guizhanss.com/SlimefunGuguProject/HotbarPets)
+[下载 HotbarPets](https://resources.guizhanss.com/plugin/HotbarPets)
 
 ## Discord
 
